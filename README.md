@@ -1,5 +1,9 @@
 # Homework-1-final
 
+https://erob0917.github.io/Homework-1-final/
+
+https://github.com/erob0917/Homework-1-final/
+
 
 Description:
 Creating a website for Search Engine Optimization, Online Reputation Management and Social Media Marketing. During this exercise I completed the following.
