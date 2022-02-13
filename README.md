@@ -17,6 +17,6 @@ Creating a website for Search Engine Optimization, Online Reputation Management 
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page. Here are the screenshots from my local.](assets/images/README-1.png)
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page. Here are the screenshots from my local.](assets/images/README-2.png)
-
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page. Here are the screenshots from my local.](assets/images/README-3.png)
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page. Here are the screenshots from my local.](assets/images/README-2.png)
